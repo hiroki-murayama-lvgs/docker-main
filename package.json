@@ -1,0 +1,12 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mysql": "2.15",
+    "dotenv": "^16.0.1",
+    "google-spreadsheet": "^3.3.0",
+    "promise-mysql": "4.1"
+  }
+}
